@@ -1,0 +1,13 @@
+{
+    "name": "polymarket-orderbook-logger",
+    "version": "1.0.0",
+    "description": "Logs Polymarket orderbook data to CSV",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "ws": "^8.14.2"
+    }
+  }
+  
